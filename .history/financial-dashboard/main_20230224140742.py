@@ -4,6 +4,7 @@
 from data_transform import data_transform
 from data_import import data_import
 from data_export import data_export
+from is_running_in_domo import is_running_in_domo
 
 # Defining the main function
 def main():
