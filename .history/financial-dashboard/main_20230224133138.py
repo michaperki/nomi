@@ -12,7 +12,7 @@ def main():
     if is_running_in_domo():
         print("this code is running in domo")
     else:
-        print("this code is not running in domo")
+        
 
     # import the data
     data_import()
